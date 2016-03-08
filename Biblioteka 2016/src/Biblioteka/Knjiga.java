@@ -27,7 +27,6 @@ public class Knjiga {
 	}
 
 	
-
 	public LinkedList<Autor> getAutori() {
 		return autori;
 	}
